@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/excoriate-mcp-terragrunt-docs-badge.png)](https://mseep.ai/app/excoriate-mcp-terragrunt-docs)
+
 # MCP Server: Terragrunt Docs Provider
 
 [![Language](https://img.shields.io/badge/language-Deno/TypeScript-blue.svg)](https://deno.land/)
